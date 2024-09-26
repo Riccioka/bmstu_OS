@@ -1,7 +1,6 @@
 ## Лабораторные работы:
 
 1. Прерывание INT 8h
-2. Бонус-лаба на умение работать в консоли с symlink
 3. 5 программ на fork и exec
 4. Демон
 5. Reader-writer & Producer-consumer problem
